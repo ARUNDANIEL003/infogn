@@ -1,0 +1,23 @@
+{
+  "name": "aruninfo-backend",
+  "version": "1.0.0",
+  "description": "An angular 8 mean stack crud web app with angular material 7.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arun Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "http-errors": "^2.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.14"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
